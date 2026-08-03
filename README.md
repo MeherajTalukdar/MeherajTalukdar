@@ -46,7 +46,7 @@ Working through the Brazilian e-commerce dataset as a primary SQL learning and p
 
 ## 🌐 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meherajtalukdar)
 
 *(Add your LinkedIn or other profile links above — swap YOUR-LINKEDIN-HANDLE for your real handle, or remove the badges you don't use.)*
 
