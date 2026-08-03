@@ -1,16 +1,9 @@
-Hey, I'm Meheraj 👋
+
+# Hey, I'm Meheraj 👋
 
 Master's student in International Management at Hochschule Niederrhein, Düsseldorf — transitioning into Business Data Analytics.
 
 Background across banking, textile sourcing, and QSR operations, now rebuilding that experience through a data lens: SQL, Power BI, and Excel. Currently targeting Junior/Intership/Working Student Business Data Analyst, BI Analyst, and Reporting Analyst roles in the German market.
-
-
-
-# Hey, I'm Meheraj 👋
-
-Master's student in International Management at Hochschule Niederrhein, Düsseldorf — transitioning into **data analytics**.
-
-Background across banking, textile sourcing, and QSR operations, now rebuilding that experience through a data lens: SQL, Power BI, and Excel. Currently targeting Junior/Working Student Data Analyst, BI Analyst, and Reporting Analyst roles in the German market.
 
 ---
 
@@ -18,7 +11,6 @@ Background across banking, textile sourcing, and QSR operations, now rebuilding 
 
 - **SQL Portfolio** — query-driven analysis projects covering e-commerce and business operations data, built with CTEs, window functions, and cohort analysis
 - **Power BI Portfolio** — interactive reports with star-schema data models and DAX measures across sales, revenue, and marketing domains
-- **Job search** — applying to analyst roles across Germany while sharpening ATS-optimized CVs and case-study style interview prep
 
 ---
 
@@ -30,8 +22,8 @@ SQL business analysis on the Northwind dataset — 22 queries across tiered comp
 **[retail-analytics-powerbi](https://github.com/MeherajTalukdar/retail-analytics-powerbi)**
 "20 Retail Problems Solved in Power BI" — star schema data model with DAX measures spanning sales, revenue, and marketing/e-commerce analysis.
 
-**Olist E-Commerce SQL Analysis** *(in progress)*
-Working through the Brazilian e-commerce dataset as a primary SQL learning and portfolio project.
+[**Olist E-Commerce SQL Analysis** *(in progress)*
+Working through the Brazilian e-commerce dataset as a primary SQL learning and portfolio project.](https://github.com/MeherajTalukdar/E-Commerce-Business-Analytics)
 
 ---
 
