@@ -14,18 +14,6 @@ Background across banking, e-commerce, and QSR operations, now rebuilding that e
 
 ---
 
-## 📊 Featured Projects
-
-**[northwind-sql-business-analysis](https://github.com/MeherajTalukdar/northwind-sql-business-analysis)**
-SQL business analysis on the Northwind dataset — 22 queries across tiered complexity, including window functions, CTEs, and cohort analysis.
-
-**[retail-analytics-powerbi](https://github.com/MeherajTalukdar/retail-analytics-powerbi)**
-"20 Retail Problems Solved in Power BI" — star schema data model with DAX measures spanning sales, revenue, and marketing/e-commerce analysis.
-
-[**Olist E-Commerce SQL Analysis** *(in progress)*
-Working through the Brazilian e-commerce dataset as a primary SQL learning and portfolio project.](https://github.com/MeherajTalukdar/E-Commerce-Business-Analytics)
-
----
 
 ## 🛠️ Tech I'm using
 
